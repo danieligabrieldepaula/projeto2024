@@ -1,7 +1,16 @@
 body{
 Background-color: #383D58;
 Color: white;
+  margin:0;
+  padding:10;
+  font-size:16px;
+  display:flex;
+  alingn-items:center;
 }
+.calculadora{
+  background-color:#2f2b39;
+  width:252px;
+  edge:5px;
 .Cabecalho{
   background-coor: #383D58;
   color: white;
